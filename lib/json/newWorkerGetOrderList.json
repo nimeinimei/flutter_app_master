@@ -1,0 +1,39 @@
+{
+    "StatusCode": 200,
+    "Info": "请求(或处理)成功",
+    "Count": 0,
+    "Data": {
+      "code": 0,
+      "msg": "success",
+      "count": 1,
+      "data": [
+        {
+          "OrderID": 2000019149,
+          "CreateDate": "2020-10-12 17:44:12",
+          "UserName": "好老大",
+          "Phone": "17512428523",
+          "Address": "辽宁省沈阳市和平区沈水湾街道远洋康桥郡3号楼1202",
+          "TypeID": "2",
+          "TypeName": "安装",
+          "Guarantee": "N",
+          "SendUser": "18767773654",
+          "Longitude": "123.404420",
+          "Dimension": "41.749477",
+          "Distance": 736.04,
+          "DistanceTureOrFalse": true,
+          "OrderProductModels": [
+            {
+              "CategoryName": "冰洗类",
+              "SubCategoryName": "冰箱",
+              "ProductType": "单门 容积X≤100",
+              "ProdModelName": "av-x",
+              "BrandName": "猪"
+            }
+          ],
+          "Signs": []
+        }
+      ],
+      "errcode": "",
+      "errorId": ""
+    }
+  }

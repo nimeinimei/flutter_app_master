@@ -1,0 +1,20 @@
+{
+  "StatusCode": 200,
+  "Info": "请求(或处理)成功",
+  "Count": 0,
+  "Data": {
+    "Item1": true,
+    "Item2": "47e642ef-f08f-4aa8-8861-836534e5ba5a",
+    "Item3": {
+      "UserName": 18767773654,
+      "NickName": 18767773654,
+      "Avator": "time.jpg",
+      "RoleID": 15,
+      "RoleName": "维修师傅",
+      "Type": 7,
+      "AccountID": 5543,
+      "IfAuth": 1,
+      "IsUse": "Y"
+    }
+  }
+}
